@@ -105,5 +105,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-Special Thanks To All [Contributors](https://github.com/AsmSafone/RadioPlayerV3/graphs/contributors) & Lib Owner
+Special Thanks To All [Contributors](https://github.com/AsmSafone/RadioPlayerV3/graphs/contributors) & Lib Owne
 
